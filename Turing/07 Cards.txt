@@ -11,6 +11,7 @@ namespace AlgorithmTestGround
         {
             var cards = new ArrayList() { "Jack", 8, 2, 6, "King", 5, 3, "Queen" };
             //(1)Extract the digits to a List
+            //
             //(2)Sort the List of the Extracted digits
             //(3)Extract the strings to a List
             //(4)Sort the List of the Extracted strings
