@@ -1,4 +1,4 @@
- HackerRank PlusMins 
+ HackerRank PlusMins Algorithm
 
 static void plusMinus(List<int> arr)
 {
