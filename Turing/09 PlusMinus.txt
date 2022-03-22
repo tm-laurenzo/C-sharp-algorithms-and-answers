@@ -23,6 +23,7 @@ static void plusMinus(List<int> arr)
 
         
     }
+// convert to double first
     Console.WriteLine(((double)countOfGreaterThanZero / arr.Count()).ToString("0.000000"));
     Console.WriteLine(((double)countOfLessThanZero / arr.Count()).ToString("0.000000"));
     Console.WriteLine(((double)countOfZero / arr.Count()).ToString("0.000000"));
