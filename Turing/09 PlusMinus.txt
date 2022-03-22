@@ -1,4 +1,4 @@
- HackerRank
+ HackerRank Plus
 
 static void plusMinus(List<int> arr)
 {
