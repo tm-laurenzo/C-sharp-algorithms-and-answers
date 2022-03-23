@@ -17,7 +17,8 @@ namespace CodeWars
 
     public class SplitString
     {
-        public static string[] Solution(string str)
+        
+public static string[] Solution(string str)
         {
             if (str.Length % 2 == 1)
             {
